@@ -9,8 +9,8 @@ I bridge the gap between robust **Software Engineering** and cutting-edge **Arti
 ### 🧠 What I'm working on
 * **Generative AI & LLMs:** Fine-tuning models and building RAG pipelines.
 * **Computer Vision:** Developing recognition systems using PyTorch and OpenCV.
-* **Agentic AI:** Creating autonomous agents capable of reasoning and executing tasks.
-* **Full Stack Integration:** Deploying AI models into React/Flutter applications.
+* **Autonomous Vehicles:** Perception systems, sensor fusion, and path planning for self-driving agents.
+* **Embedded AI:** Deploying efficient neural networks on resource-constrained hardware.
 
 ---
 
@@ -55,4 +55,4 @@ My background in **Software Engineering** allows me to write clean, maintainable
 * [LinkedIn](https://www.linkedin.com/in/antonio~apicella/)
 * 📧 [apiantonio.aa@gmail.com](mailto:apiantonio.aa@gmail.com) / [apiantonio@pec.it](mailto:apiantonio@pec.it)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apiantonio)](https://github.com/anuraghazra/github-readme-stats)
+![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=apiantonio&show_icons=true&theme=radical)
