@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  # Esegui ogni notte a mezzanotte
+  schedule: [{cron: "0 0 * * *"}]
+  # Permetti l'esecuzione manuale dal pannello Actions
+  workflow_dispatch:
+  # Esegui quando aggiorni il README
+  push: {branches: ["main", "master"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Il token che hai salvato nei secrets
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Il tuo username
+          user: apiantonio
+          
+          # Configurazione base
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Rome
+          
+          # Aggiungiamo il plugin dei linguaggi più usati (ignora HTML/CSS)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
