@@ -47,8 +47,6 @@ I bridge the gap between robust **Software Engineering** and cutting-edge **Arti
 ### 🔬 Technical Approach
 My background in **Software Engineering** allows me to write clean, maintainable code, while my knowledge of **Network Management** and **Cybersecurity** ensures that the AI solutions I deploy are secure and efficient.
 
-> *"Data is not just numbers; it's the voice of reality waiting to be understood."*
-
 ---
 
 ### 📫 Let's Connect
