@@ -55,4 +55,6 @@ My background in **Software Engineering** allows me to write clean, maintainable
 * [LinkedIn](https://www.linkedin.com/in/antonio~apicella/)
 * 📧 [apiantonio.aa@gmail.com](mailto:apiantonio.aa@gmail.com) / [apiantonio@pec.it](mailto:apiantonio@pec.it)
 
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=apiantonio&show_icons=true&theme=radical)
+<div align="center">
+  <img src="github-metrics.svg" alt="Antonio's GitHub Metrics" width="600"/>
+</div>
